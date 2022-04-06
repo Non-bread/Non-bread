@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Non-bread
-- 👀 I’m new to many things
-- 🌱 I’m currently learning basic programming
+- 👀 I am new to many things
+- 🌱 I hope to be able to work on many varied projects
 
 <!---
 Non-bread/Non-bread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
